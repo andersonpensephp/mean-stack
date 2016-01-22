@@ -1,0 +1,19 @@
+{
+  "name": "mega-store",
+  "version": "0.0.1",
+  "description": "Venda de softwares",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anderson Reis",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "install": "^0.4.1",
+    "mongoose": "^4.3.6",
+    "npm": "^3.5.3"
+  }
+}
